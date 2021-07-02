@@ -11,7 +11,7 @@ const App = () => {
   const [password, setPassword] = useState('');
   return (
     <View style={styles.container}>
-      <Text style={styles.logo}>Login</Text>
+      <Text style={styles.logo}>Appium</Text>
       <View style={styles.inputView}>
         <TextInput
           style={styles.inputText}
